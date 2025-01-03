@@ -25,7 +25,7 @@ A aplicação possui uma interface intuitiva e responsiva, permitindo ao usuári
 
 ## 🔧 **Como Executar o Projeto**
 
-<a href="https://vinicius-rodriguess.github.io/Busca-CEP/">Clique aqui para testar o projeto!</a>
+<a href="https://vinicius-rodriguess.github.io/CEP-Search/">Clique aqui para testar o projeto!</a>
 
 <img src="./src/img/BuscaCep.png">
 
@@ -34,7 +34,7 @@ Ou então:
 1. **Clone este Repositório**:
 
    ```bash
-   git clone https://github.com/seu-usuario/busca-cep.git
+   git clone https://github.com/Vinicius-Rodriguess/CEP-Search.git
    cd busca-cep
    ```
 
